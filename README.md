@@ -6,8 +6,8 @@ This fixes DNS resolution when on a VPN with Split DNS.
 # Install
 
 ```
-brew tap bchen421/tap
-brew install bchen421/tap/vault --with-dynamic
+brew tap mindfulmonk/tap
+brew install mindfulmonk/tap/vault --with-dynamic
 ```
 
 
